@@ -1,0 +1,87 @@
+{
+  "header": {
+    "background": {
+      "backgroundColor": "#353535",
+      "borderBottomWidth": 0,
+      "height": 95
+    },
+    "icon": {
+      "color": "white"
+    },
+    "body": {
+      "flex": 2,
+      "alignItems": "center",
+      "width": "80%",
+      "left" : 55
+    },
+    "right": {
+      "width": "20%"
+    },
+    "text": {
+      "color": "white",
+      "alignItems": "center",
+      "justifyContent": "flex-end",
+      "margin": 5
+    }
+  },
+  "list": {
+    "text": {
+      "left": 10,
+      "color": "#FFFFFF"
+    },
+    "dueText" : {
+      "left": 10,
+      "fontSize" : 10,
+      "color": "#969696"
+    },
+    "background": {
+      "backgroundColor": "#303030",
+      "borderBottomColor": "#545454"
+    },
+    "separator": {
+      "color": {
+        "backgroundColor": "#4f4f4f",
+        "height" : 25
+      },
+      "text": {
+        "fontSize": 10,
+        "color": "#969696"
+      }
+    },
+    "leftIconText": {
+      "fontSize": 10
+    }
+  },
+  "footer": {
+    "input": {
+      "flex" : 1,
+      "paddingHorizontal": 20,
+      "paddingVertical": 10,
+      "fontSize": 15,
+      "color": "#FFFFFF",
+      "width": "80%",
+      "margin": 5,
+      "height" : 40
+    },
+    "inputView": {
+      "flexDirection": "row",
+      "backgroundColor": "#545454",
+      "justifyContent": "flex-end"
+    },
+    "addButton": {
+      "height": 40,
+      "margin": 5
+    },
+    "buttonText": {
+      "alignItems": "center",
+      "fontSize": 10
+    },
+    "view": {
+      "flexDirection": "row",
+      "backgroundColor": "#545454"
+    },
+    "keyboardView": {
+      "backgroundColor": "#303030"
+    }
+  }
+}
