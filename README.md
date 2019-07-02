@@ -1,4 +1,4 @@
-# react.natice.todolist
+# react.native.todolist
 
 ## Version
 - React Native : 16버전 이상
